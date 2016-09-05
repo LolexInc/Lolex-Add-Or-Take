@@ -1,3 +1,4 @@
+import time
 startnum = int(input("Please enter your starting number."))
 addortakenum = int(input("Please input the number to be added. If you wish to take a number please put a - and then the number you wish to be taken."))
 endnum=int(input("Please enter your end number."))
