@@ -5,7 +5,10 @@ Supported platforms:<br>
 Windows - just install Python and run the script<br>
 Android:<br>
  Install Termux from Google Play Store<br>
- Open it and type '''apt update'''<br>
- Then type '''apt install python'''<br>
- Type '''python /sdcard/LolexAddandTakeScript.py -q run'''<br>
+ Open it and type :
+ ```
+ apt update
+ apt install python
+ python /sdcard/LolexAddandTakeScript.py
+ ```
  
